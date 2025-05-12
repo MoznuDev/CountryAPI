@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+    --spacing-mContainer: 1320px; 
+    /* Color  */
+    --color-hoverC: #F5F5F3;
+  }
